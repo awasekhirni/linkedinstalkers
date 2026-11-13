@@ -30,17 +30,17 @@
     ]
   },
   "leadership": [
-    { "name": "William (Bill) Packham", "title": "President and CEO", "notes": "Founding President & CEO; led launch in 2018" },
-    { "name": "John H. Bai", "title": "SVP, Chief Financial Officer and Chief Risk Officer", "notes": "Also cited as Chief Investment Officer in 2026 outlook content" },
-    { "name": "Sherri Evans", "title": "SVP, Head of Service, Operations, Compliance & Talent" },
-    { "name": "Wanda Frisk", "title": "SVP, Head of Credit Union Wealth Management" },
-    { "name": "George Ho", "title": "SVP, Chief Digital & Technology Officer", "notes": "Likely relevant contact for technology partnership outreach" },
-    { "name": "Yasmin Lalani", "title": "SVP, Chief Legal Officer, Chief Governance Officer" },
-    { "name": "Mark Nicholson", "title": "SVP, Client Experience and Marketing" },
-    { "name": "Stacey Petersen", "title": "SVP, Head of Direct Investing" },
-    { "name": "Tim Prescott", "title": "SVP, Head of Asset Management" },
-    { "name": "Kevin Vanderheyden", "title": "SVP, Head of Correspondent & Institutional" },
-    { "name": "Judith Chan", "title": "VP and Head of Asset Allocation" }
+    { "name": "William (Bill) Packham", "title": "President and CEO", "notes": "Founding President & CEO; led launch in 2018","ethnicity":"", },
+    { "name": "John H. Bai", "title": "SVP, Chief Financial Officer and Chief Risk Officer", "notes": "Also cited as Chief Investment Officer in 2026 outlook content","ethnicity":"", },
+    { "name": "Sherri Evans", "title": "SVP, Head of Service, Operations, Compliance & Talent","ethnicity":"", },
+    { "name": "Wanda Frisk", "title": "SVP, Head of Credit Union Wealth Management" ,"ethnicity":"",},
+    { "name": "George Ho", "title": "SVP, Chief Digital & Technology Officer", "notes": "Likely relevant contact for technology partnership outreach","ethnicity":"", },
+    { "name": "Yasmin Lalani", "title": "SVP, Chief Legal Officer, Chief Governance Officer" ,"ethnicity":"gujarati hindu?",},
+    { "name": "Mark Nicholson", "title": "SVP, Client Experience and Marketing","ethnicity":"", },
+    { "name": "Stacey Petersen", "title": "SVP, Head of Direct Investing","ethnicity":"", },
+    { "name": "Tim Prescott", "title": "SVP, Head of Asset Management","ethnicity":"", },
+    { "name": "Kevin Vanderheyden", "title": "SVP, Head of Correspondent & Institutional","ethnicity":"", },
+    { "name": "Judith Chan", "title": "VP and Head of Asset Allocation","ethnicity":"", }
   ],
   "data_sources": ["aviso.ca leadership page", "aviso.ca ownership page", "LinkedIn company page", "public news releases"]
 }
