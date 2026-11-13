@@ -1,0 +1,46 @@
+{
+  "entity": {
+    "name": "Aviso Wealth",
+    "type": "Canadian wealth management services provider",
+    "launched": "2018",
+    "headquarters": {
+      "registered": "700-1111 West Georgia Street, Vancouver, BC",
+      "other_offices": ["Toronto, ON", "Montreal, QC"]
+    },
+    "website": "https://www.aviso.ca",
+    "scale": {
+      "assets_under_administration_and_management": ">$240B",
+      "experience": "30+ years delivering wealth solutions",
+      "partners": "300+",
+      "workforce": "~1,000 professionals"
+    },
+    "ownership": {
+      "structure": "Aviso Wealth Inc. is a wholly owned subsidiary of Aviso Wealth LP",
+      "owners": [
+        { "name": "Desjardins Financial Holding Inc.", "stake": "50%" },
+        { "name": "CU CUMIS Wealth Holdings LP (credit union Centrals / Co-operators)", "stake": "50%" }
+      ]
+    },
+    "business_lines": [
+      "Credit Union Wealth Management",
+      "Direct Investing",
+      "Asset Management",
+      "Correspondent & Institutional",
+      "Wealth services technology / digital"
+    ]
+  },
+  "leadership": [
+    { "name": "William (Bill) Packham", "title": "President and CEO", "notes": "Founding President & CEO; led launch in 2018" },
+    { "name": "John H. Bai", "title": "SVP, Chief Financial Officer and Chief Risk Officer", "notes": "Also cited as Chief Investment Officer in 2026 outlook content" },
+    { "name": "Sherri Evans", "title": "SVP, Head of Service, Operations, Compliance & Talent" },
+    { "name": "Wanda Frisk", "title": "SVP, Head of Credit Union Wealth Management" },
+    { "name": "George Ho", "title": "SVP, Chief Digital & Technology Officer", "notes": "Likely relevant contact for technology partnership outreach" },
+    { "name": "Yasmin Lalani", "title": "SVP, Chief Legal Officer, Chief Governance Officer" },
+    { "name": "Mark Nicholson", "title": "SVP, Client Experience and Marketing" },
+    { "name": "Stacey Petersen", "title": "SVP, Head of Direct Investing" },
+    { "name": "Tim Prescott", "title": "SVP, Head of Asset Management" },
+    { "name": "Kevin Vanderheyden", "title": "SVP, Head of Correspondent & Institutional" },
+    { "name": "Judith Chan", "title": "VP and Head of Asset Allocation" }
+  ],
+  "data_sources": ["aviso.ca leadership page", "aviso.ca ownership page", "LinkedIn company page", "public news releases"]
+}
