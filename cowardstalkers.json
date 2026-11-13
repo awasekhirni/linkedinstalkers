@@ -1,0 +1,233 @@
+{
+  "extraction_metadata": {
+    "source": "LinkedIn Profile Appearances (Analytics)",
+    "extraction_date": "2026-11-12",
+    "note": "Screenshots 2 and 4 did not display an explicit date range header; they are labeled 'Unknown range' below."
+  },
+  "weekly_appearances": [
+    {
+      "date_range": "October 27 – November 2",
+      "all_appearances": 49,
+      "search_appearances": 28,
+      "trend_all_appearances": "-17% past 7 days",
+      "trend_search_appearances": "0% past 7 days",
+      "companies": [
+        {
+          "name": "Zeta",
+          "legal_name": "Zeta Global Holdings Corp.",
+          "industry": "Marketing Technology / AI-driven Marketing Cloud",
+          "headquarters": "New York, NY, USA",
+          "ceo": "David A. Steinberg (Co-CEO) / John Sculley (Co-CEO)",
+          "founded": 2007,
+          "stock_ticker": "ZETA (NYSE)",
+          "notes": "AI-powered marketing cloud; heavy recruiter presence likely due to ad-tech/data-engineering roles."
+        },
+        {
+          "name": "Rapid Care Group",
+          "legal_name": "Rapid Care Group Ltd.",
+          "industry": "Healthcare / Home Care Services",
+          "headquarters": "United Kingdom",
+          "ceo": "Private / not widely published",
+          "founded": null,
+          "stock_ticker": null,
+          "notes": "UK-based home-care provider; recruiter activity suggests care-coordinator or operations roles."
+        },
+        {
+          "name": "The Honourable Society of Lincoln's Inn",
+          "legal_name": "The Honourable Society of Lincoln's Inn",
+          "industry": "Legal Education / Inn of Court",
+          "headquarters": "London, UK",
+          "ceo": "Treasurer (rotates annually; 2025–26 Treasurer varies)",
+          "founded": 1422,
+          "stock_ticker": null,
+          "notes": "One of the four Inns of Court in London. Appearance likely from a legal recruiter or academic viewer."
+        },
+        {
+          "name": "BAT",
+          "legal_name": "British American Tobacco p.l.c.",
+          "industry": "Tobacco / Consumer Goods / Next-Gen Products",
+          "headquarters": "London, UK",
+          "ceo": "Jack Bowles",
+          "founded": 1902,
+          "stock_ticker": "BATS (LSE) / BTI (NYSE)",
+          "notes": "Multinational tobacco; recruiter interest likely in data, digital transformation, or sustainability roles."
+        }
+      ]
+    },
+    {
+      "date_range": "Unknown range (snapshot between weekly reports)",
+      "all_appearances": 102,
+      "search_appearances": 26,
+      "trend_all_appearances": "+65% past 7 days",
+      "trend_search_appearances": "0% past 7 days",
+      "companies": [
+        {
+          "name": "University of Zurich",
+          "legal_name": "Universität Zürich (UZH)",
+          "industry": "Higher Education / Research",
+          "headquarters": "Zurich, Switzerland",
+          "ceo": "President: Michael Schaepman",
+          "founded": 1833,
+          "stock_ticker": null,
+          "notes": "Matches your Ph.D. alma mater — likely alumni network or academic collaborators viewing your profile."
+        },
+        {
+          "name": "Reliance Infosystems",
+          "legal_name": "Reliance Infosystems Pvt. Ltd.",
+          "industry": "IT Services / Software Development",
+          "headquarters": "Mumbai, India",
+          "ceo": "Part of Reliance Industries; Mukesh Ambani (Chairman, parent)",
+          "founded": null,
+          "stock_ticker": "RELIANCE (NSE/BSE) — parent",
+          "notes": "IT arm of Reliance; recruiter activity consistent with your tech-stack profile."
+        },
+        {
+          "name": "Oracle",
+          "legal_name": "Oracle Corporation",
+          "industry": "Enterprise Software / Cloud / Database",
+          "headquarters": "Austin, TX, USA",
+          "ceo": "Safra Catz",
+          "founded": 1977,
+          "stock_ticker": "ORCL (NYSE)",
+          "notes": "Major recruiter of PostgreSQL, cloud-migration, and enterprise-architecture talent."
+        },
+        {
+          "name": "Cornell University",
+          "legal_name": "Cornell University",
+          "industry": "Higher Education / Research",
+          "headquarters": "Ithaca, NY, USA",
+          "ceo": "President: Martha E. Pollack",
+          "founded": 1865,
+          "stock_ticker": null,
+          "notes": "Ivy League; appears in multiple weeks — possibly a recurring recruiter or research collaborator."
+        },
+        {
+          "name": "LanceSoft, Inc.",
+          "legal_name": "LanceSoft, Inc.",
+          "industry": "IT Staffing / Workforce Solutions",
+          "headquarters": "Fremont, CA, USA",
+          "ceo": "Bala Murali Balasubramanian",
+          "founded": 2000,
+          "stock_ticker": null,
+          "notes": "Global staffing firm; high likelihood of recruiter outreach for contract/contract-to-hire roles."
+        }
+      ]
+    },
+    {
+      "date_range": "Unknown range (snapshot between weekly reports)",
+      "all_appearances": 68,
+      "search_appearances": 37,
+      "trend_all_appearances": "-40% past 7 days",
+      "trend_search_appearances": "0% past 7 days",
+      "companies": [
+        {
+          "name": "Aritzia",
+          "legal_name": "Aritzia Inc.",
+          "industry": "Retail / Fashion Apparel",
+          "headquarters": "Vancouver, BC, Canada",
+          "ceo": "Jennifer Wong",
+          "founded": 1984,
+          "stock_ticker": "ATZ (TSX)",
+          "notes": "Canadian fashion retailer; recruiter interest likely in data/analytics or e-commerce roles."
+        },
+        {
+          "name": "District School Board of Niagara",
+          "legal_name": "District School Board of Niagara (DSBN)",
+          "industry": "Public Education (K-12)",
+          "headquarters": "St. Catharines, ON, Canada",
+          "ceo": "Director of Education: John Lewis (verify current)",
+          "founded": 1998,
+          "stock_ticker": null,
+          "notes": "Public school board; appearance may relate to geospatial/IoT education initiatives or local networking."
+        },
+        {
+          "name": "Azerion",
+          "legal_name": "Azerion Group B.V.",
+          "industry": "Gaming / Ad-Tech / Digital Entertainment",
+          "headquarters": "Amsterdam, Netherlands",
+          "ceo": "Atilla Aytekin (Founder & CEO)",
+          "founded": 2015,
+          "stock_ticker": "AZR (Euronext Amsterdam)",
+          "notes": "Gaming & ad-platform; recruiter interest in data-engineering or programmatic-ad roles."
+        },
+        {
+          "name": "Wells Fargo",
+          "legal_name": "Wells Fargo & Company",
+          "industry": "Financial Services / Banking",
+          "headquarters": "San Francisco, CA, USA",
+          "ceo": "Charles W. Scharf",
+          "founded": 1852,
+          "stock_ticker": "WFC (NYSE)",
+          "notes": "Strong alignment with your 18 years in financial-services digital transformation."
+        },
+        {
+          "name": "Government of Canada",
+          "legal_name": "Government of Canada (Gouvernement du Canada)",
+          "industry": "Public Sector / Federal Government",
+          "headquarters": "Ottawa, ON, Canada",
+          "ceo": "Prime Minister: Mark Carney (as of 2026)",
+          "founded": 1867,
+          "stock_ticker": null,
+          "notes": "Federal government; could be IRCC, ESDC, or geospatial agencies (NRCan) viewing your profile."
+        }
+      ]
+    },
+    {
+      "date_range": "November 3 – November 9",
+      "all_appearances": 317,
+      "search_appearances": 23,
+      "trend_all_appearances": "+620% past 7 days",
+      "trend_search_appearances": "0% past 7 days",
+      "companies": [
+        {
+          "name": "Titan Consulting",
+          "legal_name": "Titan Consulting (verify legal entity — multiple firms use this name)",
+          "industry": "Management / IT Consulting",
+          "headquarters": "Varies (multiple entities exist)",
+          "ceo": "Varies by entity",
+          "founded": null,
+          "stock_ticker": null,
+          "notes": "Ambiguous — could be Titan Consulting (UK), Titan Consulting Group (US), or others. Likely a recruiter."
+        },
+        {
+          "name": "Suncor",
+          "legal_name": "Suncor Energy Inc.",
+          "industry": "Energy / Oil Sands / Renewables",
+          "headquarters": "Calgary, AB, Canada",
+          "ceo": "Rich Kruger",
+          "founded": 1917,
+          "stock_ticker": "SU (TSX/NYSE)",
+          "notes": "Major Canadian energy company; interest may relate to geospatial/IoT monitoring for operations."
+        },
+        {
+          "name": "Cornell University",
+          "legal_name": "Cornell University",
+          "industry": "Higher Education / Research",
+          "headquarters": "Ithaca, NY, USA",
+          "ceo": "President: Martha E. Pollack",
+          "founded": 1865,
+          "stock_ticker": null,
+          "notes": "Repeat viewer from prior week — strong signal of sustained interest (recruiter, collaborator, or admissions)."
+        },
+        {
+          "name": "Quantum Technology Recruiting Inc. (QTR)",
+          "legal_name": "Quantum Technology Recruiting Inc.",
+          "industry": "Tech Staffing / Executive Search",
+          "headquarters": "Canada (likely)",
+          "ceo": "Not publicly listed",
+          "founded": null,
+          "stock_ticker": null,
+          "notes": "Specialized tech recruiter; high probability of direct outreach for senior engineering/architecture roles."
+        }
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "total_unique_companies": 17,
+    "repeat_companies": ["Cornell University"],
+    "top_week_by_appearances": "November 3 – November 9 (317 appearances, +620%)",
+    "likely_recruiter_firms": ["LanceSoft, Inc.", "Quantum Technology Recruiting Inc. (QTR)", "Titan Consulting", "Reliance Infosystems"],
+    "likely_academic_viewers": ["University of Zurich", "Cornell University", "The Honourable Society of Lincoln's Inn"],
+    "likely_enterprise_recruiters": ["Oracle", "Wells Fargo", "BAT", "Suncor", "Aritzia", "Zeta", "Azerion"]
+  }
+}
