@@ -1,0 +1,180 @@
+{
+  "dossier_metadata": {
+    "subject": "The Bank of Nova Scotia (Scotiabank)",
+    "report_type": "Comprehensive Corporate & Organizational Dossier",
+    "generation_date": "2026-11-20",
+    "data_sources": [
+      "Official Corporate Website (scotiabank.com)",
+      "Investor Relations and Management Proxy Circulars",
+      "Publicly available professional profiles and corporate disclosures",
+      "Global Banking and Markets (GBM) leadership directories"
+    ],
+    "privacy_disclaimer": "This dossier is compiled exclusively from publicly listed corporate directory information and official press releases. It does not contain private contact details (e.g., personal emails, direct phone numbers) in compliance with GDPR, PIPEDA (Canada), and global data privacy regulations."
+  },
+  "company_overview": {
+    "legal_name": "The Bank of Nova Scotia",
+    "trade_name": "Scotiabank",
+    "founded": 1832,
+    "headquarters": {
+      "address": "40 Temperance Street, Toronto, Ontario, M5H 0B4, Canada",
+      "country": "Canada",
+      "website": "https://www.scotiabank.com"
+    },
+    "industry": "Financial Services, Banking, Wealth Management, Capital Markets",
+    "business_model": "A diversified financial services institution providing personal and commercial banking, wealth management, corporate and investment banking, and global transaction banking services. Strategically focused on the Americas (Canada, US, Mexico, Central America, South America, and the Caribbean).",
+    "key_metrics": {
+      "total_assets": "Approximately $1.5 trillion CAD (as of mid-2026)",
+      "customer_base": "Over 25 million customers globally",
+      "stock_listings": "Toronto Stock Exchange (TSX: BNS), New York Stock Exchange (NYSE: BNS)"
+    }
+  },
+  "corporate_leadership_and_governance": {
+    "executive_management_team": [
+      {
+        "name": "Scott Thomson",
+        "title": "President and Chief Executive Officer",
+        "focus": "Overall corporate strategy, global operations, and stakeholder relations."
+      },
+      {
+        "name": "Raj Viswanathan",
+        "title": "Group Head and Chief Financial Officer",
+        "focus": "Financial planning, treasury, investor relations, and corporate finance."
+      },
+      {
+        "name": "Travis Machen",
+        "title": "CEO and Group Head, Global Banking and Markets",
+        "focus": "Corporate and investment banking, capital markets, and institutional client services."
+      },
+      {
+        "name": "Aris Bogdaneris",
+        "title": "Group Head, Canadian Banking",
+        "focus": "Retail and commercial banking operations across Canada."
+      },
+      {
+        "name": "Francisco Aristeguieta",
+        "title": "Group Head, International & Global Transaction Banking",
+        "focus": "International banking operations (Latin America, Caribbean) and global transaction services."
+      },
+      {
+        "name": "Jacqui Allard",
+        "title": "Group Head, Global Wealth Management & Insurance",
+        "focus": "Wealth advisory, asset management, and insurance products."
+      },
+      {
+        "name": "Tim Clark",
+        "title": "Group Head & Chief Information Officer",
+        "focus": "Global technology strategy, digital transformation, and IT infrastructure."
+      },
+      {
+        "name": "Shannon McGinnis",
+        "title": "Chief Risk Officer",
+        "focus": "Enterprise-wide risk management, credit risk, and operational resilience."
+      },
+      {
+        "name": "Phil Thomas",
+        "title": "Group Head & Chief Strategy and Operating Officer",
+        "focus": "Strategic initiatives, operational efficiency, and business transformation."
+      },
+      {
+        "name": "Ian Arellano",
+        "title": "Executive Vice President and General Counsel",
+        "focus": "Global legal affairs, regulatory compliance, and corporate governance."
+      },
+      {
+        "name": "Jenny Poulos",
+        "title": "Chief Human Resources Officer",
+        "focus": "Global talent acquisition, employee development, and organizational culture."
+      },
+      {
+        "name": "Julie Walsh",
+        "title": "Executive Vice President and Chief Compliance Officer",
+        "focus": "Enterprise compliance frameworks, anti-money laundering (AML), and regulatory adherence."
+      }
+    ],
+    "board_of_directors_context": {
+      "structure": "Comprised of independent directors with diverse global financial and operational expertise.",
+      "recent_notable_appointments": "Includes experienced global banking leaders (e.g., Ralph Hamers, appointed to the Board in 2026) to guide strategic oversight."
+    }
+  },
+  "organizational_structure_and_departments": {
+    "core_business_lines": [
+      {
+        "name": "Canadian Banking",
+        "description": "Serves retail, small business, and commercial clients across Canada with everyday banking, lending, and wealth solutions."
+      },
+      {
+        "name": "International Banking",
+        "description": "Operations in key growth markets across Latin America (e.g., Mexico, Peru, Chile, Colombia) and the Caribbean, focusing on retail and commercial banking."
+      },
+      {
+        "name": "Global Wealth Management & Insurance",
+        "description": "Provides wealth advisory, asset management (via Scotia Global Asset Management), and insurance solutions to high-net-worth and mass-affluent clients."
+      },
+      {
+        "name": "Global Banking and Markets (GBM)",
+        "description": "Delivers corporate and investment banking, capital markets, M&A advisory, and sales & trading services to institutional, corporate, and government clients globally."
+      },
+      {
+        "name": "Global Transaction Banking (GTB)",
+        "description": "Offers cash management, trade finance, and securities services to multinational corporations and financial institutions."
+      }
+    ],
+    "corporate_functions": [
+      "Technology & Digital Innovation (CIO)",
+      "Risk Management & Compliance",
+      "Human Resources & Talent",
+      "Finance & Treasury",
+      "Legal & Corporate Secretary",
+      "Strategy & Operations",
+      "Marketing & Communications"
+    ]
+  },
+  "global_footprint_and_locations": {
+    "primary_hubs": [
+      "Toronto, Canada (Global Headquarters)",
+      "New York, USA",
+      "Mexico City, Mexico",
+      "Santiago, Chile",
+      "Lima, Peru",
+      "Bogotá, Colombia",
+      "Kingston, Jamaica"
+    ],
+    "secondary_and_specialized_offices": [
+      "London, UK",
+      "Singapore",
+      "São Paulo, Brazil",
+      "Panama City, Panama",
+      "San Juan, Puerto Rico",
+      "Various regional hubs across the Caribbean and Central America"
+    ],
+    "branch_network": "Over 2,100 branches and banking centers across its core markets, supported by extensive digital banking platforms."
+  },
+  "employee_and_organizational_insights": {
+    "headcount": "Approximately 85,000 to 90,000 employees globally.",
+    "company_culture_and_development": {
+      "core_values": "Customer-focused, collaborative, inclusive, and driven by integrity.",
+      "diversity_and_inclusion": "Strong commitment to gender parity in leadership, Indigenous reconciliation, and multicultural representation, frequently recognized in global diversity indices.",
+      "employee_development": "Extensive internal training programs, leadership academies, and continuous learning platforms focused on digital upskilling and agile methodologies."
+    }
+  },
+  "strategic_insights_and_focus_areas": {
+    "key_themes": [
+      "Americas-Focused Growth Strategy: Concentrating capital and resources on high-growth, high-return markets in the Americas rather than a dispersed global footprint.",
+      "Digital Transformation & AI: Heavy investment in cloud infrastructure, data analytics, and AI-driven customer experiences (spearheaded by the Group Head & CIO).",
+      "Sustainability and ESG: Committed to financing the transition to a low-carbon economy, with specific targets for sustainable finance and achieving net-zero operational emissions.",
+      "Operational Efficiency: Ongoing strategic initiatives to streamline processes, optimize the cost-to-income ratio, and enhance agile delivery across business lines."
+    ]
+  },
+  "digital_footprint_and_contact_channels": {
+    "investor_relations": "https://scotiabank.investorroom.com",
+    "global_banking_and_markets": "https://www.gbm.scotiabank.com",
+    "general_contact": {
+      "corporate_headquarters_phone": "+1-416-866-6161",
+      "media_inquiries": "Available via the official Scotiabank Media Centre"
+    },
+    "social_media": [
+      "LinkedIn: linkedin.com/company/scotiabank",
+      "Twitter/X: @Scotiabank"
+    ]
+  }
+}
