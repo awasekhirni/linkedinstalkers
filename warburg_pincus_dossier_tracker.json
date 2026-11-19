@@ -1,0 +1,5711 @@
+{
+  "metadata": {
+    "source": "https://warburgpincus.com/team/",
+    "source_files": [
+      "Pasted_Text_1795114471977.txt",
+      "Pasted_Text_1795114610612.txt"
+    ],
+    "files_identical": true,
+    "extracted_from": "HTML person--inner-wrap cards (h2 = name, small = title, p = group/sector/location, background-image = headshot)",
+    "conversion_date": "2026-11-20",
+    "record_count": 453,
+    "entity": "Warburg Pincus LLC",
+    "profile_url_base": "https://warburgpincus.com/team/",
+    "photo_url_base": "https://warburgpincus.com/wp-content/uploads/",
+    "normalization": [
+      "&amp; decoded to &",
+      "full-width ＆ normalized to &",
+      "whitespace trimmed",
+      "trailing '?' query params stripped from slugs"
+    ],
+    "fields": [
+      "name",
+      "title",
+      "groups",
+      "sectors",
+      "location",
+      "profile_slug",
+      "has_photo"
+    ],
+    "notes": [
+      "groups = organizational bucket tags (Investment Staff / Operating Team / Value Creation / Fundraising and Investor Relations / Managing Directors).",
+      "sectors = sector or functional-department tags as listed; some cards carry only a sector tag and no group tag.",
+      "'Managing Directors' (MD) is a directory tag, not a rank; it co-occurs with IS or OT on some cards only.",
+      "Two distinct people share the name 'Michelle Xu' (slugs michelle-xu and michelle_xu).",
+      "2 records have no location; 13 records have no headshot.",
+      "has_photo=true means a headshot URL exists in source; exact image paths omitted here for payload size (available on request)."
+    ]
+  },
+  "dictionaries": {
+    "groups": {
+      "IS": "Investment Staff",
+      "OT": "Operating Team",
+      "VC": "Value Creation",
+      "IR": "Fundraising and Investor Relations",
+      "MD": "Managing Directors (directory tag)"
+    },
+    "sectors": {
+      "TECH": "Technology",
+      "TMT": "Technology, Media & Telecommunications",
+      "HC": "Healthcare",
+      "FS": "Financial Services",
+      "IND": "Industrials",
+      "BS": "Business Services",
+      "RE": "Real Estate",
+      "ETS": "Energy Transition & Sustainability",
+      "CS": "Capital Solutions",
+      "PS": "Partnership Solutions",
+      "FIN": "Finance",
+      "LEG": "Legal",
+      "COMP": "Compliance",
+      "BT": "Business Technology",
+      "HUM": "Human Capital",
+      "COMM": "Communications",
+      "CM": "Capital Markets",
+      "PA": "Portfolio Analytics",
+      "SPE": "Special Purpose Entities",
+      "ISERV": "Investor Services",
+      "EVT": "Events",
+      "GPPP": "Global Public Policy & Political Risk"
+    }
+  },
+  "people": [
+    [
+      "Farah Abdelrahim",
+      "Associate",
+      [
+        "IR"
+      ],
+      [],
+      "London",
+      "farah-abdelrahim",
+      true
+    ],
+    [
+      "Issam Abedin",
+      "Managing Director",
+      [
+        "MD",
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "issam-abedin",
+      true
+    ],
+    [
+      "Janina Aebischer",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC",
+        "TECH"
+      ],
+      "Berlin",
+      "janina-aebischer",
+      true
+    ],
+    [
+      "Saurabh Agarwal",
+      "Managing Director, Head of Southeast Asia Private Equity",
+      [
+        "MD",
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "saurabh-agarwal",
+      true
+    ],
+    [
+      "Kashica Agarwal",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "kashica-agarwal",
+      true
+    ],
+    [
+      "Cole Agbede",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "London",
+      "cole-agbede",
+      true
+    ],
+    [
+      "Jonas Agesand",
+      "Managing Director",
+      [
+        "MD",
+        "IR"
+      ],
+      [],
+      "London",
+      "jonas-agesand",
+      true
+    ],
+    [
+      "Tanvi Aggarwal",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "tanvi_aggarwal",
+      true
+    ],
+    [
+      "Prakhar Agrawal",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "prakhar-agrawal",
+      true
+    ],
+    [
+      "Bryan Ang",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "bryan-ang",
+      true
+    ],
+    [
+      "José Arredondo",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "New York",
+      "jose-arredondo",
+      true
+    ],
+    [
+      "Nayan Bader",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "nayan-bader",
+      true
+    ],
+    [
+      "Sharmila Baichoo",
+      "General Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "Mauritius",
+      "sharmila-baichoo",
+      true
+    ],
+    [
+      "Alexi Baker",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "alexi-baker",
+      true
+    ],
+    [
+      "Jason Banos",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "jason-banos",
+      true
+    ],
+    [
+      "Anna Bansal",
+      "Analyst",
+      [],
+      [
+        "ETS"
+      ],
+      "New York",
+      "anna-bansal",
+      true
+    ],
+    [
+      "Matt Bashaw",
+      "Managing Director",
+      [
+        "MD",
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "New York",
+      "matthew-bashaw",
+      true
+    ],
+    [
+      "Katie Bathgate",
+      "Senior Vice President, Head of Investor Services",
+      [
+        "OT"
+      ],
+      [
+        "ISERV"
+      ],
+      "New York",
+      "katie-bathgate",
+      true
+    ],
+    [
+      "Kia Baxter",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "London",
+      "kia-baxter",
+      true
+    ],
+    [
+      "Lee Becker",
+      "Managing Director",
+      [
+        "MD",
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "lee-becker",
+      true
+    ],
+    [
+      "Cem Behmoaram",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "cem-behmoaram",
+      true
+    ],
+    [
+      "Alain Belda",
+      "Special Limited Partner",
+      [],
+      [],
+      "São Paulo",
+      "alain-belda",
+      true
+    ],
+    [
+      "Roy Ben-Dor",
+      "Managing Director, Head of Energy Transition & Sustainability",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "roy-ben-dor",
+      true
+    ],
+    [
+      "Cole Bianco",
+      "Vice President",
+      [],
+      [
+        "HC"
+      ],
+      "New York",
+      "cole-bianco",
+      true
+    ],
+    [
+      "Michael Bischoff",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "London",
+      "michael-bischoff",
+      true
+    ],
+    [
+      "Noah Bishop",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "noah-bishop",
+      true
+    ],
+    [
+      "David Blair",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "david-blair",
+      true
+    ],
+    [
+      "Sarah Bloom",
+      "Director, Communications",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "sarah-bloom",
+      true
+    ],
+    [
+      "Naguib Boutros-Ghali",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "naguib-boutros-ghali",
+      true
+    ],
+    [
+      "Evelyn Bradley",
+      "Transaction Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "Amsterdam",
+      "evelyn-bradley",
+      false
+    ],
+    [
+      "Claire Branch",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "claire-branch",
+      true
+    ],
+    [
+      "Jonathan Brennan",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "jonathan-brennan",
+      true
+    ],
+    [
+      "Rob Buonanno",
+      "Managing Director, Head of Capital Markets",
+      [
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "New York",
+      "rob-buonanno",
+      true
+    ],
+    [
+      "Maximilian Buttinger",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Berlin",
+      "maximilian-buttinger",
+      true
+    ],
+    [
+      "Ryan Callahan",
+      "Director, Portfolio Analysis",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "ryan-callahan",
+      true
+    ],
+    [
+      "T. J. Carella",
+      "Managing Director, Head of Healthcare",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "t-j-carella",
+      true
+    ],
+    [
+      "Luca Cassiano",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "luca-cassiano",
+      true
+    ],
+    [
+      "Richard Chan",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TMT"
+      ],
+      "Beijing",
+      "richard-chan",
+      true
+    ],
+    [
+      "Brian Chang",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "brian-chang",
+      true
+    ],
+    [
+      "Winston Jose Chang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "winston-jose-chang",
+      true
+    ],
+    [
+      "Nick Changnon",
+      "Director, IT",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "nick-changnon",
+      true
+    ],
+    [
+      "Gopi Chelliah",
+      "Technology Officer, Europe",
+      [
+        "VC"
+      ],
+      [],
+      "London",
+      "gopi-chelliah",
+      true
+    ],
+    [
+      "Ruoxi Chen",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "ruoxi-chen",
+      true
+    ],
+    [
+      "Sarah Chen",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "Hong Kong",
+      "sarah-chen",
+      true
+    ],
+    [
+      "Tina Chen",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "tina-chen",
+      true
+    ],
+    [
+      "Sheila Chen",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "sheila-chen",
+      true
+    ],
+    [
+      "Olivia Chen",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "Shanghai",
+      "olivia-chen",
+      true
+    ],
+    [
+      "Sophie Chen",
+      "Legal Director",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "Beijing",
+      "sophie-chen",
+      true
+    ],
+    [
+      "Alice Chen",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "alice-chen",
+      true
+    ],
+    [
+      "Annie Chen",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "annie-chen",
+      true
+    ],
+    [
+      "Julie Cheng",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "julie-cheng",
+      true
+    ],
+    [
+      "Eric Chester",
+      "Senior Vice President, Business Technology",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "eric-chester",
+      true
+    ],
+    [
+      "Douglas Chey",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "douglas-chey",
+      true
+    ],
+    [
+      "Carlo Chiesa",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "carlo-chiesa",
+      true
+    ],
+    [
+      "Michel Chitman",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "michel-chitman",
+      true
+    ],
+    [
+      "Dongkun Cho",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "dongkun-cho",
+      true
+    ],
+    [
+      "Vikram Chogle",
+      "Managing Director",
+      [
+        "VC",
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "vikram-chogle",
+      true
+    ],
+    [
+      "Parth Chowdhary",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "parth-chowdhary",
+      true
+    ],
+    [
+      "Gilbert Chuabio",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "Singapore",
+      "gilbert-chuabio",
+      true
+    ],
+    [
+      "Kerrie Cohen",
+      "Managing Director, Global Head of Communications & Marketing",
+      [
+        "OT"
+      ],
+      [
+        "COMM"
+      ],
+      "New York",
+      "kerrie-cohen",
+      true
+    ],
+    [
+      "Alison Heyden Colby",
+      "Senior Vice President, Assistant General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "alison-heyden",
+      true
+    ],
+    [
+      "Mark M. Colodny",
+      "Managing Director, Co-Head of U.S. Private Equity and Chairman of Global Technology",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "mark-m-colodny",
+      true
+    ],
+    [
+      "Peter Connelly",
+      "Director, Business Technology",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "peter-connelly",
+      true
+    ],
+    [
+      "David Coulter",
+      "Special Limited Partner",
+      [],
+      [],
+      "New York",
+      "david-coulter",
+      true
+    ],
+    [
+      "Ryan Cowles",
+      "Managing Director, Co-Head of Fund Accounting & Operations",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "ryan-cowles",
+      true
+    ],
+    [
+      "Emma Dahle",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "emma-dahle",
+      true
+    ],
+    [
+      "Shalin Dalal",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "Houston",
+      "shalin-dalal",
+      true
+    ],
+    [
+      "Ryan Dalton",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "Houston",
+      "ryan-dalton",
+      true
+    ],
+    [
+      "Cary Davis",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "cary-davis",
+      true
+    ],
+    [
+      "Matthew Davis",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "Houston",
+      "matthew-davis",
+      true
+    ],
+    [
+      "Chiara De Bortoli",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "London",
+      "chiara-de-bortoli",
+      true
+    ],
+    [
+      "Ricardo de Serdio Domecq",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "ricardo-de-serdio-domecq",
+      true
+    ],
+    [
+      "Marlies de Wilde",
+      "General Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "Amsterdam",
+      "marlies-de-wilde",
+      true
+    ],
+    [
+      "Peter Deming",
+      "Managing Director, Co-Head of European Financial Services",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "peter-deming",
+      true
+    ],
+    [
+      "Hugo Despoux",
+      "Director",
+      [],
+      [],
+      "Singapore",
+      "hugo_despoux",
+      true
+    ],
+    [
+      "Suhas Devaraju",
+      "Senior Vice President, Digital Strategy and Innovation",
+      [
+        "VC"
+      ],
+      [],
+      "Mumbai",
+      "suhas-devaraju",
+      true
+    ],
+    [
+      "Soham Dharmadhikary",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "soham-dharmadhikary",
+      true
+    ],
+    [
+      "Sanjay Dholakia",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "San Francisco",
+      "sanjay-dholakia",
+      true
+    ],
+    [
+      "Andrew DiGeronimo",
+      "Managing Director, Co-Head of Partnership Solutions",
+      [
+        "IS"
+      ],
+      [
+        "PS"
+      ],
+      "New York",
+      "andrew-digeronimo",
+      true
+    ],
+    [
+      "Michael Dimitrief",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "michael-dimitrief",
+      true
+    ],
+    [
+      "Michael Ding",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "michael-ding",
+      true
+    ],
+    [
+      "Saidi Ding",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "saidi-ding",
+      true
+    ],
+    [
+      "Sofia Diniz",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "sofia-diniz",
+      true
+    ],
+    [
+      "Yoan Dipita N'Komba",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "PS"
+      ],
+      "New York",
+      "yoan-dipita-nkomba",
+      true
+    ],
+    [
+      "Gabe Dorit-Kendall",
+      "Vice President",
+      [
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "New York",
+      "gabe-dorit-kendall",
+      true
+    ],
+    [
+      "Nevio Duci",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "nevio-duci",
+      true
+    ],
+    [
+      "Jay Epstein",
+      "Managing Director, CFO Advisor",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "jay-epstein",
+      true
+    ],
+    [
+      "Beckett Fabbie",
+      "Senior Vice President, Human Capital",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "New York",
+      "beckett-fabbie",
+      true
+    ],
+    [
+      "Li Fan",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "li-fan",
+      true
+    ],
+    [
+      "Min Fang",
+      "Managing Director, Co-Head of China Private Equity",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "min-fang",
+      true
+    ],
+    [
+      "Trey Ferguson",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "trey-ferguson",
+      true
+    ],
+    [
+      "Lisa Ferraro",
+      "Senior Vice President, Human Capital",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "New York",
+      "lisa-ferraro",
+      true
+    ],
+    [
+      "Adrienne Filipov",
+      "Managing Director, Chief Human Capital Officer",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "New York",
+      "adrienne-filipov",
+      true
+    ],
+    [
+      "Kolbein Finsnes",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "kolbein-finsnes",
+      true
+    ],
+    [
+      "Andrew Fitzpatrick",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "andrew-fitzpatrick",
+      true
+    ],
+    [
+      "Sarah Foster",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "sarah-foster",
+      false
+    ],
+    [
+      "Max Fowinkel",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND",
+        "HC",
+        "TECH"
+      ],
+      "Berlin",
+      "max-fowinkel",
+      true
+    ],
+    [
+      "Georgia Fox",
+      "Senior Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "georgia-fox",
+      true
+    ],
+    [
+      "Michael Frain",
+      "Managing Director, Shared Services",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "michael-frain",
+      true
+    ],
+    [
+      "Eric Friedman",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "eric-friedman",
+      true
+    ],
+    [
+      "Iris Fu",
+      "Analyst",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "iris-fu",
+      true
+    ],
+    [
+      "Frances Fukuda",
+      "Managing Director, Latin America",
+      [
+        "VC"
+      ],
+      [],
+      "São Paulo",
+      "frances-fukuda",
+      true
+    ],
+    [
+      "Alonso Garcia",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "alonso-garcia",
+      true
+    ],
+    [
+      "Jessica Garcia",
+      "Vice President",
+      [],
+      [
+        "HC"
+      ],
+      "New York",
+      "jessica-garcia",
+      true
+    ],
+    [
+      "Bradford Garvey",
+      "Managing Director",
+      [
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "New York",
+      "bradford-garvey",
+      true
+    ],
+    [
+      "Timothy F. Geithner",
+      "Chairman",
+      [
+        "IS"
+      ],
+      [],
+      "New York",
+      "timothy-f-geithner",
+      true
+    ],
+    [
+      "Jackson Gervais",
+      "Senior Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "jackson-gervais",
+      true
+    ],
+    [
+      "Alberto Ghezzi",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND"
+      ],
+      "London",
+      "alberto-ghezzi",
+      true
+    ],
+    [
+      "Tarik-Timo Ghoniem",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "tarik-timo-ghoniem",
+      true
+    ],
+    [
+      "Alice Gibb",
+      "Director, European Communications and Public Affairs",
+      [
+        "OT"
+      ],
+      [],
+      "London",
+      "alice-gibb",
+      true
+    ],
+    [
+      "Steven G. Glenn",
+      "Managing Director, Chief Financial Officer, Chief Operating Officer",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "steven-g-glenn",
+      true
+    ],
+    [
+      "Jesh Gnanarajan",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "jesh-gnanarajan",
+      true
+    ],
+    [
+      "Yen Goh",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND"
+      ],
+      "Singapore",
+      "yen-goh",
+      true
+    ],
+    [
+      "Teck Loon Goh",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "Singapore",
+      "teck-loon",
+      true
+    ],
+    [
+      "Ryan Golden",
+      "Senior Vice President, Fund Accounting",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "ryan-golden",
+      true
+    ],
+    [
+      "Jeff Goldfaden",
+      "Managing Director, Head of Industrials",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "jeff-goldfaden",
+      true
+    ],
+    [
+      "Sumek Gopal",
+      "Senior Vice President, Human Capital",
+      [
+        "VC"
+      ],
+      [],
+      "Mumbai",
+      "sumek-gopal",
+      true
+    ],
+    [
+      "Rohan Gopinath",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "rohan-gopinath",
+      true
+    ],
+    [
+      "Tesham Gor",
+      "Executive in Residence",
+      [],
+      [
+        "BS",
+        "IND"
+      ],
+      null,
+      "tesham-gor",
+      false
+    ],
+    [
+      "Mike Graff",
+      "Senior Advisor",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "mike-graff",
+      true
+    ],
+    [
+      "Mitch Gribman",
+      "Analyst",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "mitch-gribman",
+      true
+    ],
+    [
+      "Devin Grossman",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "devin-grossman",
+      true
+    ],
+    [
+      "Rhea Grover",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "rhea-grover",
+      true
+    ],
+    [
+      "Raquel Guevara",
+      "General Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "Luxembourg",
+      "raquel-guevara",
+      true
+    ],
+    [
+      "Ankur Gulati",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "Mumbai",
+      "ankur-gulati",
+      true
+    ],
+    [
+      "Stanley Guo",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "Shanghai",
+      "stanley-guo",
+      true
+    ],
+    [
+      "Parag Gupta",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "parag-gupta",
+      true
+    ],
+    [
+      "Pranjal Gupta",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "pranjal-gupta",
+      true
+    ],
+    [
+      "Pat Hackett",
+      "Industry Advisor",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "pat-hackett",
+      true
+    ],
+    [
+      "Michael Haile",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "michael-haile",
+      true
+    ],
+    [
+      "Stuart Haine",
+      "Director",
+      [
+        "VC"
+      ],
+      [],
+      "Singapore",
+      "stuart-haine",
+      true
+    ],
+    [
+      "Marcelo Hamburger",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "São Paulo",
+      "marcelo-hamburger",
+      true
+    ],
+    [
+      "Grace Han",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "grace-han",
+      true
+    ],
+    [
+      "Kentaro Hashimoto",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Tokyo",
+      "kentaro-hashimoto",
+      true
+    ],
+    [
+      "Elyn He",
+      "Assistant General Counsel",
+      [
+        "VC"
+      ],
+      [],
+      "Shanghai",
+      "elyn-he",
+      true
+    ],
+    [
+      "Amanda Hedlund",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "amanda-hedlund",
+      true
+    ],
+    [
+      "Teresa Heung",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Singapore",
+      "teresa-heung",
+      true
+    ],
+    [
+      "Jeannie Hirsch",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "jeannie-hirsch",
+      true
+    ],
+    [
+      "Sarah Ho",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Singapore",
+      "sarah-ho",
+      true
+    ],
+    [
+      "Youn Hong",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "Hong Kong",
+      "youn-hong",
+      true
+    ],
+    [
+      "Jasmin Hu",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "jasmin-hu",
+      true
+    ],
+    [
+      "Eddie Huang",
+      "Managing Director, Global Head of Fundraising and Investor Relations",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "eddie-huang",
+      true
+    ],
+    [
+      "Justin Huang",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "justin-huang",
+      true
+    ],
+    [
+      "Vineet Jain",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "Mumbai",
+      "vineet-jain",
+      true
+    ],
+    [
+      "Lauren James",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "lauren-james",
+      true
+    ],
+    [
+      "Faisal Jamil",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "London",
+      "faisal-jamil",
+      true
+    ],
+    [
+      "Bill Janeway",
+      "Special Limited Partner",
+      [],
+      [
+        "TECH"
+      ],
+      "London, New York",
+      "bill-janeway",
+      true
+    ],
+    [
+      "Devon Jarvis",
+      "Principal",
+      [],
+      [
+        "CS"
+      ],
+      "New York",
+      "devon-jarvis",
+      true
+    ],
+    [
+      "Kush Jhawar",
+      "Managing Director, Chief Information Officer",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "kush-jhawar",
+      true
+    ],
+    [
+      "Yuyao Ji",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Shanghai",
+      "yuyao-ji",
+      true
+    ],
+    [
+      "Fang Jian",
+      "Managing Director, General Counsel - China",
+      [],
+      [],
+      "Shanghai",
+      "fang-jian",
+      true
+    ],
+    [
+      "Jessica Jiang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Shanghai",
+      "jessica-jiang",
+      true
+    ],
+    [
+      "Kelly Jiang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "kelly-jiang",
+      true
+    ],
+    [
+      "Kevin Jiang",
+      "IT Director",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "Shanghai",
+      "kevin-jiang",
+      true
+    ],
+    [
+      "Lynnette Jiang",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "lynnette-jiang",
+      true
+    ],
+    [
+      "Pao Jirakulpattana",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "pao-jirakulpattana",
+      true
+    ],
+    [
+      "Patrick Johnson",
+      "Principal",
+      [
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "London",
+      "patrick-johnson",
+      true
+    ],
+    [
+      "Jordan Jones",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "jordan-jones",
+      true
+    ],
+    [
+      "Frederick Jordaan",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "frederick-jordaan",
+      true
+    ],
+    [
+      "Kasper Jorgensen",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "kasper-jorgensen",
+      true
+    ],
+    [
+      "Carolina Joyce",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "carolina-joyce",
+      true
+    ],
+    [
+      "Sandeep Kagzi",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Mumbai",
+      "sandeep-kagzi",
+      true
+    ],
+    [
+      "Jake Kang",
+      "Senior Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "jake-kang",
+      true
+    ],
+    [
+      "Amanda Kangrga",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "New York",
+      "amanda-kangrga",
+      true
+    ],
+    [
+      "Jessica Kao",
+      "Senior Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "jessica-kao",
+      false
+    ],
+    [
+      "Geeta Karani",
+      "Director, Operations",
+      [
+        "OT"
+      ],
+      [],
+      "Mumbai",
+      "geeta-karani",
+      false
+    ],
+    [
+      "Jordan Katz",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "jordan-katz",
+      true
+    ],
+    [
+      "Chip Kaye",
+      "Chairman",
+      [
+        "IS"
+      ],
+      [],
+      "New York",
+      "chip-kaye",
+      true
+    ],
+    [
+      "Grant Keating",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "grant-keating",
+      true
+    ],
+    [
+      "Deborah Kerr",
+      "Managing Director, Co-Head of Value Creation",
+      [
+        "VC"
+      ],
+      [],
+      "Houston",
+      "deborah-kerr",
+      true
+    ],
+    [
+      "Saumya Khaitan",
+      "Vice President",
+      [
+        "OT"
+      ],
+      [
+        "CM"
+      ],
+      "New York",
+      "saumya-khaitan",
+      true
+    ],
+    [
+      "Anish Khanorkar",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "anish-khanorkar",
+      true
+    ],
+    [
+      "Kristy Khoury",
+      "Director, Portfolio Analytics",
+      [
+        "OT"
+      ],
+      [
+        "PA"
+      ],
+      "New York",
+      "kristy-khoury",
+      true
+    ],
+    [
+      "Megan Kilcourse",
+      "Managing Director, Co-Head of Fund Accounting & Operations",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "megan-kilcourse",
+      true
+    ],
+    [
+      "Hailey Kim",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Singapore",
+      "hailey-kim",
+      true
+    ],
+    [
+      "Melissa Kim",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "melissa-kim",
+      true
+    ],
+    [
+      "Kwang Bum Kim",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "kwang_bum-kim",
+      true
+    ],
+    [
+      "Peter Kimmey",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Singapore",
+      "peter-kimmey",
+      true
+    ],
+    [
+      "Lauren King",
+      "Vice President",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "lauren-king",
+      true
+    ],
+    [
+      "Deepak Kinra",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "deepak-kinra",
+      true
+    ],
+    [
+      "Robert Kirkham",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "robert-kirkham",
+      true
+    ],
+    [
+      "Robert B. Knauss",
+      "Managing Director, Policy and Compliance",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "robert-b-knauss",
+      true
+    ],
+    [
+      "Nishtha Kohli",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "nishtha-kohli",
+      true
+    ],
+    [
+      "Dhruv Kothari",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "dhruv-kothari",
+      true
+    ],
+    [
+      "Bachul Koul",
+      "Director, Portfolio Analytics",
+      [
+        "OT"
+      ],
+      [
+        "PA"
+      ],
+      "San Francisco",
+      "bachul-koul",
+      true
+    ],
+    [
+      "Adam Krainson",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "adam-krainson",
+      true
+    ],
+    [
+      "Julian Kredisov-Zorin",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "julian-kredisov-zorin",
+      true
+    ],
+    [
+      "Henry Kressel",
+      "Special Limited Partner",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "henry-kressel",
+      true
+    ],
+    [
+      "Amr Kronfol",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "amr-kronfol",
+      true
+    ],
+    [
+      "Kanika Kumar",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "London",
+      "kanika-kumar",
+      true
+    ],
+    [
+      "Raj Kushwaha",
+      "Managing Director, Co-Head of Value Creation and Chief Digital Officer",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "raj-kushwaha",
+      true
+    ],
+    [
+      "Cheryl LaDuca",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "New York",
+      "cheryl-laduca",
+      true
+    ],
+    [
+      "Lynn Lau",
+      "Managing Director, CFO, Southeast Asia",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Singapore",
+      "lynn-lau",
+      true
+    ],
+    [
+      "Derek Lau",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "derek-lau",
+      false
+    ],
+    [
+      "Gabrielle Lau",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "gabrielle-lau",
+      true
+    ],
+    [
+      "Joel Law",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "joel-law",
+      true
+    ],
+    [
+      "Zach Lazar",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "zach-lazar",
+      true
+    ],
+    [
+      "Henry Le",
+      "Associate",
+      [],
+      [],
+      "Singapore",
+      "henry-le",
+      true
+    ],
+    [
+      "Margaux Le Brun",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "margaux-le-brun",
+      true
+    ],
+    [
+      "Analle Lebas",
+      "Analyst",
+      [],
+      [
+        "FS"
+      ],
+      "London",
+      "analle-lebas",
+      true
+    ],
+    [
+      "Nick Lee",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "London",
+      "nick-lee",
+      true
+    ],
+    [
+      "Lucas Lee",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "lucas-lee",
+      true
+    ],
+    [
+      "Terence Lee",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "terence-lee",
+      true
+    ],
+    [
+      "Eric Changhyun Lee",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "eric-changhyun-lee",
+      true
+    ],
+    [
+      "Chloe Lee",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "chloe-lee",
+      true
+    ],
+    [
+      "King Leung",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "king-leung",
+      true
+    ],
+    [
+      "Adam Levinson",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "adam-levinson",
+      true
+    ],
+    [
+      "Bill Li",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Beijing",
+      "bill-li",
+      true
+    ],
+    [
+      "Brandon Li",
+      "Managing Director, Head of WPARE Asset Management",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Hong Kong",
+      "brandon-li",
+      true
+    ],
+    [
+      "Sara Li",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Shanghai",
+      "sara-li",
+      true
+    ],
+    [
+      "Iris Li",
+      "Director, AC - Asset Management",
+      [
+        "VC"
+      ],
+      [],
+      "Shanghai",
+      "iris-li",
+      true
+    ],
+    [
+      "Will Li",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "will-li",
+      true
+    ],
+    [
+      "Max Li",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Singapore",
+      "max-li",
+      true
+    ],
+    [
+      "Lisa Liang",
+      "Senior Vice President - Head of Marketing and Communications, Asia",
+      [
+        "OT"
+      ],
+      [
+        "COMM"
+      ],
+      "Beijing",
+      "lisa-liang",
+      true
+    ],
+    [
+      "Christopher Liebig",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "christopher-liebig",
+      true
+    ],
+    [
+      "Emily Lim",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "emily-lim",
+      true
+    ],
+    [
+      "Darren Lim",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "darren-lim",
+      true
+    ],
+    [
+      "Shuen Lim",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "Singapore",
+      "shuen-lim",
+      true
+    ],
+    [
+      "Jenny Lin",
+      "Senior Vice President, VC - Asset Management",
+      [
+        "IS"
+      ],
+      [],
+      "Shanghai",
+      "jenny-lin",
+      true
+    ],
+    [
+      "Victoria Lin",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "victoria-lin",
+      false
+    ],
+    [
+      "Sam Lipsick",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "sam-lipsick",
+      true
+    ],
+    [
+      "Jennifer Loh",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      null,
+      "jennifer-loh",
+      true
+    ],
+    [
+      "Roger Lou",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Shanghai",
+      "roger-lou",
+      true
+    ],
+    [
+      "Gary Lu",
+      "Director",
+      [],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "gary-lu",
+      false
+    ],
+    [
+      "Eliza Lupone",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "eliza-lupone",
+      true
+    ],
+    [
+      "Robert Lusardi",
+      "Associate",
+      [],
+      [
+        "CS"
+      ],
+      "New York",
+      "robert-lusardi",
+      true
+    ],
+    [
+      "Jeff Luse",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "jeffrey-luse",
+      true
+    ],
+    [
+      "Yannik Lutz",
+      "Analyst",
+      [],
+      [
+        "FS"
+      ],
+      "London",
+      "yannik-lutz",
+      true
+    ],
+    [
+      "Yusuke Ma",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "Tokyo",
+      "yusuke-ma",
+      false
+    ],
+    [
+      "Lien Ma",
+      "Director, Tax",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "lien-ma",
+      true
+    ],
+    [
+      "Jenna Macartney",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "jenna-macartney",
+      true
+    ],
+    [
+      "Jeffrey MacDonald",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "jeffrey-macdonald",
+      true
+    ],
+    [
+      "Doug Madden",
+      "Managing Director, Chief Compliance Officer",
+      [
+        "OT"
+      ],
+      [
+        "COMP"
+      ],
+      "New York",
+      "doug-madden",
+      true
+    ],
+    [
+      "Vishal Mahadevia",
+      "Managing Director, Head of Asia Private Equity, and Global Co-Head of Financial Services",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "vishal-mahadevia",
+      true
+    ],
+    [
+      "Kelly Mahood",
+      "Director, Business Technology",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "kelly-mahood",
+      true
+    ],
+    [
+      "Fernando Maia",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "fernando-maia",
+      true
+    ],
+    [
+      "Joseph Maietta",
+      "Director, Accounting",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "joseph-maietta",
+      true
+    ],
+    [
+      "Bruno Maimone",
+      "Managing Director, Co-Head of Brazil Office",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "bruno-maimone",
+      true
+    ],
+    [
+      "Aya Makki",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Middle East",
+      "aya-makki",
+      true
+    ],
+    [
+      "Shitij Malik",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "shitij-malik",
+      true
+    ],
+    [
+      "Pranav Manoharan",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "pranav-manoharan",
+      true
+    ],
+    [
+      "Andrew Marin",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "andrew-marin",
+      true
+    ],
+    [
+      "Theodore Maris",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "theodore-maris",
+      true
+    ],
+    [
+      "Harsha Marti",
+      "Managing Director, General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "harsha-marti",
+      true
+    ],
+    [
+      "Kristin Marvin",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "COMP"
+      ],
+      "New York",
+      "kristin-marvin",
+      true
+    ],
+    [
+      "Francesco Mattioni",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "francesco-mattioni",
+      true
+    ],
+    [
+      "Chris McGloin",
+      "Director",
+      [],
+      [
+        "COMM"
+      ],
+      "New York",
+      "chris-mcgloin",
+      false
+    ],
+    [
+      "David McNally",
+      "Senior Vice President, Business Technology",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "david-mcnally",
+      true
+    ],
+    [
+      "Evan Megibow",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "evan-megibow",
+      true
+    ],
+    [
+      "Ronak Mehta",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Mumbai",
+      "ronak-mehta",
+      true
+    ],
+    [
+      "Rahil Mehta",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "rahil-mehta",
+      true
+    ],
+    [
+      "Kunal Mehta",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "kunal-mehta",
+      true
+    ],
+    [
+      "Alexandre Meissner",
+      "Finance Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "São Paulo",
+      "alexandre-meissner",
+      true
+    ],
+    [
+      "Benny Melumad",
+      "Managing Director, Digital Strategy & Innovation",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "benny-melumad",
+      true
+    ],
+    [
+      "Vishnu Menon",
+      "Managing Director, Co-Head of Partnership Solutions",
+      [
+        "IS"
+      ],
+      [
+        "PS",
+        "TECH"
+      ],
+      "San Francisco",
+      "vishnu-menon",
+      true
+    ],
+    [
+      "Mark Messing",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "mark-messing",
+      true
+    ],
+    [
+      "Yelena Mezhbinskaya",
+      "Director, Tax",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "yelena-mezhbinskaya",
+      true
+    ],
+    [
+      "David Mihailovic",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND"
+      ],
+      "London",
+      "david-mihailovic",
+      true
+    ],
+    [
+      "Marianne Mihas",
+      "Analyst",
+      [],
+      [
+        "HC"
+      ],
+      "New York",
+      "marianne-mihas",
+      true
+    ],
+    [
+      "Zachary Milles",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "zachary-milles",
+      true
+    ],
+    [
+      "Ramon Mirasol",
+      "Director, Capital Markets",
+      [
+        "OT"
+      ],
+      [],
+      "Singapore",
+      "ramon-mirasol",
+      true
+    ],
+    [
+      "Radhika Mittal",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "radhika-mittal",
+      true
+    ],
+    [
+      "Shusuke Miyata",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Tokyo",
+      "shusuke-miyata",
+      true
+    ],
+    [
+      "Natasha Moolji",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "natasha-moolji",
+      true
+    ],
+    [
+      "Aaron Muchnick",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "New York",
+      "aaron-muchnick",
+      true
+    ],
+    [
+      "Hemant Mundra",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Mumbai",
+      "hemant-mundra",
+      true
+    ],
+    [
+      "Henrique Muramoto",
+      "Managing Director, Co-Head of Brazil Office",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "henrique-muramoto",
+      true
+    ],
+    [
+      "Takashi Murata",
+      "Managing Director, Co-Head of Asia Real Estate and Head of Japan",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Hong Kong",
+      "takashi-murata",
+      true
+    ],
+    [
+      "Bill Murphy",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "Houston",
+      "bill-murphy",
+      true
+    ],
+    [
+      "Doug Musicaro",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS"
+      ],
+      "New York",
+      "doug-musicaro",
+      true
+    ],
+    [
+      "Lucas Mussi",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "lucas-mussi",
+      true
+    ],
+    [
+      "Jennifer Nam",
+      "Senior Vice President, Head of Events and Workplace Services",
+      [
+        "OT"
+      ],
+      [
+        "EVT"
+      ],
+      "New York",
+      "jennifer-nam",
+      true
+    ],
+    [
+      "Jim Neary",
+      "Managing Director, Co-Head of U.S. Private Equity",
+      [
+        "IS"
+      ],
+      [],
+      "New York",
+      "jim-neary",
+      true
+    ],
+    [
+      "Tania Nelson",
+      "Director, Portfolio Analytics",
+      [
+        "OT"
+      ],
+      [
+        "PA"
+      ],
+      "New York",
+      "tania-nelson",
+      true
+    ],
+    [
+      "Himanshu Nema",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND",
+        "HC"
+      ],
+      "Mumbai",
+      "himanshu-nema",
+      true
+    ],
+    [
+      "Hui Han Neo",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "hui-han-neo",
+      true
+    ],
+    [
+      "Ellen Ng",
+      "Managing Director, Co-Head of Asia Real Estate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Hong Kong",
+      "ellen-ng",
+      true
+    ],
+    [
+      "Queenie Nie",
+      "Director",
+      [
+        "VC"
+      ],
+      [],
+      "Shanghai",
+      "queenie-nie",
+      true
+    ],
+    [
+      "Karen O'Byrne",
+      "Managing Director",
+      [
+        "VC"
+      ],
+      [],
+      "San Francisco",
+      "karen-obyrne",
+      true
+    ],
+    [
+      "James O'Gara",
+      "Managing Director, Co-Head of European Financial Services",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "james-ogara",
+      true
+    ],
+    [
+      "Tara O'Neill",
+      "Senior Vice President",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "New York",
+      "tara-oneill",
+      true
+    ],
+    [
+      "René Obermann",
+      "Managing Director, Chairman of Europe",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Berlin",
+      "rene-obermann",
+      true
+    ],
+    [
+      "Sina Oefinger",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "sina-oefinger",
+      true
+    ],
+    [
+      "ByoungJun Oh",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Tokyo",
+      "byoungjun-oh",
+      true
+    ],
+    [
+      "Nnaemeka Okwuosa",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Berlin",
+      "nnaemeka-okwuosa",
+      true
+    ],
+    [
+      "Narendra Ostawal",
+      "Managing Director, Head of India Private Equity",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "narendra-ostawal",
+      true
+    ],
+    [
+      "Marcelo Otero",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "marcelo-otero",
+      true
+    ],
+    [
+      "Sarahi Constantine Padilla",
+      "Director, Assistant General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "sarahi-constantine_padilla",
+      true
+    ],
+    [
+      "Andrew Park",
+      "Managing Director, Head of Asia Technology",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Singapore",
+      "andrew-park",
+      true
+    ],
+    [
+      "Avni Patel",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "avni-patel",
+      true
+    ],
+    [
+      "Darshan Patel",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Mumbai",
+      "darshan-patel",
+      true
+    ],
+    [
+      "Aarya Patel",
+      "Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "aarya-patel",
+      true
+    ],
+    [
+      "Dalip Pathak",
+      "Special Limited Partner",
+      [],
+      [],
+      "London",
+      "dalip-pathak",
+      true
+    ],
+    [
+      "Gregory Pelton Jr.",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "gregory-pelton-jr",
+      true
+    ],
+    [
+      "Regina Penn",
+      "Managing Director",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "regina-penn",
+      true
+    ],
+    [
+      "Jeffrey Perlman",
+      "Chief Executive Officer",
+      [
+        "IS"
+      ],
+      [],
+      "New York",
+      "jeffrey-perlman",
+      true
+    ],
+    [
+      "David Pfennig",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Berlin",
+      "david-pfennig",
+      true
+    ],
+    [
+      "Michael Picasso",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "michael-picasso",
+      true
+    ],
+    [
+      "Carlos Pinto",
+      "Analyst",
+      [],
+      [
+        "IND"
+      ],
+      "New York",
+      "carlos-pinto",
+      true
+    ],
+    [
+      "Mohit Poddar",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "mohit-poddar",
+      true
+    ],
+    [
+      "Radhika Poddar",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "radhika-poddar",
+      true
+    ],
+    [
+      "Connor Popik",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "connor-popik",
+      true
+    ],
+    [
+      "Matt Porter",
+      "Managing Director, Assistant General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "matt-porter",
+      true
+    ],
+    [
+      "Angel Pu Shum",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "angel-pu",
+      true
+    ],
+    [
+      "Jian Qiu",
+      "Director",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Beijing",
+      "jian-qiu",
+      true
+    ],
+    [
+      "Zac Query",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "Houston",
+      "zac-query",
+      true
+    ],
+    [
+      "Fatima Qureshi",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "COMP"
+      ],
+      "New York",
+      "fatima-qureshi",
+      true
+    ],
+    [
+      "Leela Ramnath",
+      "Managing Director, Global Head of Sustainability Strategy",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "leela-ramnath",
+      true
+    ],
+    [
+      "Charlie Redlick",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "charles-redlick",
+      true
+    ],
+    [
+      "Chandler Reedy",
+      "Managing Director, Co-Head of U.S. Technology",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "chandler-reedy",
+      true
+    ],
+    [
+      "Thomas Reidy",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "thomas-reidy",
+      true
+    ],
+    [
+      "David Reis",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND"
+      ],
+      "London",
+      "david-reis",
+      true
+    ],
+    [
+      "Tobi Reitz",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "tobi-reitz",
+      true
+    ],
+    [
+      "Adan Retana",
+      "Managing Director",
+      [
+        "OT"
+      ],
+      [
+        "PA",
+        "FIN"
+      ],
+      "New York",
+      "adan-retana",
+      true
+    ],
+    [
+      "Werner Rickinger",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC",
+        "TECH"
+      ],
+      "Berlin",
+      "werner-rickinger",
+      true
+    ],
+    [
+      "Gert Jan Rietberg",
+      "Corporate Director",
+      [
+        "OT"
+      ],
+      [
+        "SPE"
+      ],
+      "Amsterdam",
+      "gert-jan-rietberg",
+      true
+    ],
+    [
+      "Julia Roberts",
+      "Managing Director and Global Head of Product",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "julia-roberts",
+      true
+    ],
+    [
+      "Alexander Roso",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "alexander-roso",
+      true
+    ],
+    [
+      "Allison Ross",
+      "Principal",
+      [],
+      [
+        "CS"
+      ],
+      "New York",
+      "allison-ross",
+      true
+    ],
+    [
+      "Tim Rossow",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "London",
+      "tim-rossow",
+      true
+    ],
+    [
+      "Sebastian Roth",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "Berlin",
+      "sebastian-roth",
+      true
+    ],
+    [
+      "Giovanna Sá",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "giovanna-sa",
+      true
+    ],
+    [
+      "Justin Sadrian",
+      "Managing Director, Co-Head of U.S. Technology",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "justin-sadrian",
+      true
+    ],
+    [
+      "Shahryar Safdar",
+      "Associate",
+      [],
+      [
+        "FS"
+      ],
+      "New York",
+      "shahryar-safdar",
+      false
+    ],
+    [
+      "Tejas Saggi",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "tejas-saggi",
+      true
+    ],
+    [
+      "Christine Sanchez",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "christine-sanchez",
+      true
+    ],
+    [
+      "Riya Sankhe",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "riya-sankhe",
+      true
+    ],
+    [
+      "Sho Sano",
+      "Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Tokyo",
+      "sho-sano",
+      true
+    ],
+    [
+      "Anish Saraf",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Mumbai",
+      "anish-saraf",
+      true
+    ],
+    [
+      "Viraj Sawhney",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "TECH"
+      ],
+      "Middle East",
+      "viraj-sawhney",
+      true
+    ],
+    [
+      "Jack Scaccia",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "jack-scaccia",
+      true
+    ],
+    [
+      "Henry Schacht",
+      "Special Limited Partner",
+      [],
+      [],
+      "New York",
+      "henry-schacht",
+      true
+    ],
+    [
+      "Todd Schell",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "todd-schell",
+      true
+    ],
+    [
+      "Rianne Schipper",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND"
+      ],
+      "London",
+      "rianne-schipper",
+      true
+    ],
+    [
+      "Hunter Schlacks",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "hunter-schlacks",
+      true
+    ],
+    [
+      "Lionne Schuette",
+      "Analyst",
+      [],
+      [
+        "BS",
+        "IND"
+      ],
+      "London",
+      "lionne-schuette",
+      false
+    ],
+    [
+      "Gaurav Seth",
+      "Managing Director, Head of Capital Solutions, Americas",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "gaurav-seth",
+      true
+    ],
+    [
+      "Sonu Shah",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "sonu-shah",
+      true
+    ],
+    [
+      "Brett Shawn",
+      "Managing Director, Assistant General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "New York",
+      "brett-shawn",
+      true
+    ],
+    [
+      "Zoë Shelton",
+      "Analyst",
+      [],
+      [
+        "HC"
+      ],
+      "New York",
+      "zoe-shelton",
+      true
+    ],
+    [
+      "Adam Sherman",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "adam-sherman",
+      true
+    ],
+    [
+      "Qian Shi",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "qian-shi",
+      true
+    ],
+    [
+      "Leo Shi",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "leo-shi",
+      true
+    ],
+    [
+      "Justin Shifteh",
+      "Portfolio Analyst",
+      [],
+      [
+        "PA"
+      ],
+      "New York",
+      "justin-shifteh",
+      true
+    ],
+    [
+      "Boying Shui",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "boying-shui",
+      true
+    ],
+    [
+      "Andrew Sibbald",
+      "Managing Director, Head of Europe",
+      [],
+      [],
+      "London",
+      "andrew-sibbald",
+      true
+    ],
+    [
+      "Jake Siewert",
+      "Managing Director, Head of Global Public Policy and Political Risk",
+      [
+        "OT"
+      ],
+      [
+        "GPPP"
+      ],
+      "New York",
+      "jake-siewert",
+      true
+    ],
+    [
+      "Kylie Simms",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "kylie-simms",
+      true
+    ],
+    [
+      "Swapnil Sinha",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND",
+        "TECH"
+      ],
+      "Mumbai",
+      "swapnil-sinha",
+      true
+    ],
+    [
+      "Melissa Skidell",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "Singapore",
+      "melissa-skidell",
+      true
+    ],
+    [
+      "Inta Skinkis",
+      "Director, Business Technology",
+      [
+        "OT"
+      ],
+      [
+        "BT"
+      ],
+      "New York",
+      "inta-skinkis",
+      true
+    ],
+    [
+      "Will Slack",
+      "Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "will-slack",
+      true
+    ],
+    [
+      "Taylor Slade",
+      "Senior Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "taylor-slade",
+      true
+    ],
+    [
+      "Kevin Soedyatmiko",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "kevin-soedyatmiko",
+      true
+    ],
+    [
+      "Ash Somani",
+      "Managing Director, Head of San Francisco Office",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "ashutosh-somani",
+      true
+    ],
+    [
+      "Debra Somers",
+      "Senior Vice President, Portfolio Talent",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "debra-somers",
+      true
+    ],
+    [
+      "Jialun Song",
+      "Associate",
+      [],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "jialun-song",
+      true
+    ],
+    [
+      "Brian Spillane",
+      "Senior Vice President",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "brian-spillane",
+      true
+    ],
+    [
+      "David Sreter",
+      "Managing Director, Head of Transactions & Operations",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "david-sreter",
+      true
+    ],
+    [
+      "Cary Stathopoulos",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "cary-stathopoulos",
+      true
+    ],
+    [
+      "Jeff Stein",
+      "Managing Director, Head of U.S. Financial Services",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "jeff-stein",
+      true
+    ],
+    [
+      "Danielle Steinman",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "danielle-steinman",
+      true
+    ],
+    [
+      "Isabelle Stone",
+      "Senior Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "isabelle-stone",
+      true
+    ],
+    [
+      "Alex Stratoudakis",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "alex-stratoudakis",
+      true
+    ],
+    [
+      "Jake Strauss",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "jake-strauss",
+      true
+    ],
+    [
+      "Manasa Sudunagunta",
+      "Associate",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "manasa-sudunagunta",
+      true
+    ],
+    [
+      "Antonius Susanto",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Singapore",
+      "antonius_susanto",
+      true
+    ],
+    [
+      "Elie Syriani",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "elie-syriani",
+      true
+    ],
+    [
+      "Ermias Tadesse",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "ermias-tadesse",
+      true
+    ],
+    [
+      "Chouaib Tahlouli",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "London",
+      "chouaib-tahlouli",
+      true
+    ],
+    [
+      "Luca Tajra",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "São Paulo",
+      "luca-tajra",
+      true
+    ],
+    [
+      "Trevor Tan",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "trevor_tan",
+      true
+    ],
+    [
+      "Carnegie Tang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "carnegie_tang",
+      true
+    ],
+    [
+      "Noah Tavares",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "noah-tavares",
+      true
+    ],
+    [
+      "Varun Telaprolu",
+      "Principal",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "varun-telaprolu",
+      true
+    ],
+    [
+      "Constance Temam-Basse",
+      "Analyst",
+      [],
+      [
+        "HC"
+      ],
+      "London",
+      "constance-temam-basse",
+      true
+    ],
+    [
+      "Darren Teoh",
+      "Director, Sustainability Strategy",
+      [
+        "OT"
+      ],
+      [],
+      "Singapore",
+      "darren-teoh",
+      true
+    ],
+    [
+      "Shari Tepper",
+      "Managing Director, Head of Tax",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "New York",
+      "shari-tepper",
+      true
+    ],
+    [
+      "Annie Tewkesbury",
+      "Vice President",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "annie-tewkesbury",
+      true
+    ],
+    [
+      "Mike Thompson",
+      "Managing Director, Head of Capital Solutions Europe",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "London",
+      "mike-thompson",
+      true
+    ],
+    [
+      "Henner Thormaehlen",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "BS",
+        "IND",
+        "HC",
+        "TECH"
+      ],
+      "Berlin",
+      "henner-thormaehlen",
+      true
+    ],
+    [
+      "Allison Tompkins",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "allison-tompkins",
+      true
+    ],
+    [
+      "Henry Tong",
+      "Director, Human Capital",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "henry-tong",
+      true
+    ],
+    [
+      "Devang Toshniwal",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "devang-toshniwal",
+      true
+    ],
+    [
+      "Carla Tuan",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "carla-tuan",
+      true
+    ],
+    [
+      "Christopher Turner",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "christopher-turner",
+      true
+    ],
+    [
+      "Michael Twaddle",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "London",
+      "michael-twaddle",
+      true
+    ],
+    [
+      "Spencer Tyson",
+      "Analyst",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "spencer-tyson",
+      true
+    ],
+    [
+      "Maggie van de Griend",
+      "Managing Director, Portfolio Talent",
+      [
+        "VC"
+      ],
+      [],
+      "New York",
+      "maggie-van-de-griend",
+      true
+    ],
+    [
+      "Fernando Varella",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "São Paulo",
+      "fernando-varella",
+      true
+    ],
+    [
+      "Maiju Varhe",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "London",
+      "maiju-varhe",
+      true
+    ],
+    [
+      "Pranav Verma",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Singapore",
+      "pranav-verma",
+      true
+    ],
+    [
+      "Ishika Verma",
+      "Associate",
+      [
+        "IS"
+      ],
+      [],
+      "Mumbai",
+      "ishika-verma",
+      true
+    ],
+    [
+      "Benjamin Vickery",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "benjamin-vickery",
+      true
+    ],
+    [
+      "David Vignes",
+      "Managing Director",
+      [
+        "VC"
+      ],
+      [],
+      "San Francisco",
+      "david-vignes",
+      true
+    ],
+    [
+      "Martin Vladyka",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "martin-vladyka",
+      true
+    ],
+    [
+      "John Vogelstein",
+      "Special Limited Partner",
+      [],
+      [],
+      "New York",
+      "john-vogelstein",
+      true
+    ],
+    [
+      "Carl von Baumbach",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "Berlin",
+      "carl-von-baumbach",
+      true
+    ],
+    [
+      "Willem Vroom",
+      "Analyst",
+      [],
+      [
+        "FS"
+      ],
+      "New York",
+      "willem-vroom",
+      true
+    ],
+    [
+      "Corinne Walters",
+      "Vice President",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "corinne-walters",
+      true
+    ],
+    [
+      "Vincent Wang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "vincent-wang",
+      true
+    ],
+    [
+      "Xinwei Wang",
+      "Director, Banking and Structured Finance",
+      [
+        "VC"
+      ],
+      [],
+      "Beijing",
+      "xinwei-wang",
+      true
+    ],
+    [
+      "Yin Wang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "yin-wang",
+      true
+    ],
+    [
+      "Frank Wang",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "frank-wang",
+      true
+    ],
+    [
+      "Bess Weatherman",
+      "Special Limited Partner",
+      [],
+      [
+        "HC"
+      ],
+      "New York",
+      "bess-weatherman",
+      true
+    ],
+    [
+      "Merit Webster",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "merit-webster",
+      true
+    ],
+    [
+      "Jacqueline Wei",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "New York",
+      "jacqueline-wei",
+      true
+    ],
+    [
+      "Bradly Wei",
+      "Associate",
+      [],
+      [],
+      "New York",
+      "bradly-wei",
+      false
+    ],
+    [
+      "Tobias Weidner",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "London",
+      "tobias-weidner",
+      true
+    ],
+    [
+      "Eric Wells",
+      "Director, Business Technology",
+      [
+        "OT"
+      ],
+      [],
+      "New York",
+      "eric-wells",
+      true
+    ],
+    [
+      "Kevin White",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "kevin-white",
+      true
+    ],
+    [
+      "Max Wijaya",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "max-wijaya",
+      true
+    ],
+    [
+      "Jim Wilson",
+      "Managing Director",
+      [
+        "IR"
+      ],
+      [],
+      "New York",
+      "jim-wilson",
+      true
+    ],
+    [
+      "Sandra Wishnick",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "HUM"
+      ],
+      "New York",
+      "sandra-wishnick",
+      true
+    ],
+    [
+      "Wei Ming Wong",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [],
+      "Singapore",
+      "wei-ming-wong",
+      true
+    ],
+    [
+      "Rory Woodhouse",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "London",
+      "rory-woodhouse",
+      true
+    ],
+    [
+      "Dirk Wössner",
+      "Senior Vice President",
+      [
+        "VC"
+      ],
+      [],
+      "Berlin",
+      "dirk-wossner",
+      true
+    ],
+    [
+      "Winston Wu",
+      "Director, Portfolio Finance",
+      [
+        "VC"
+      ],
+      [],
+      "Shanghai",
+      "winston-wu",
+      true
+    ],
+    [
+      "Jackson Wu",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "jackson-wu",
+      true
+    ],
+    [
+      "Daniel Xiong",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "daniel-xiong",
+      true
+    ],
+    [
+      "Roland Xu",
+      "Managing Director, Chief Financial Officer, North Asia",
+      [
+        "OT"
+      ],
+      [
+        "FIN"
+      ],
+      "Shanghai",
+      "roland-xu",
+      true
+    ],
+    [
+      "Michelle Xu",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "New York",
+      "michelle-xu",
+      true
+    ],
+    [
+      "Richard Xu",
+      "Director, Compliance",
+      [
+        "OT"
+      ],
+      [
+        "COMP"
+      ],
+      "Shanghai",
+      "richard",
+      true
+    ],
+    [
+      "Michelle Xu",
+      "Vice President",
+      [],
+      [
+        "TECH"
+      ],
+      "New York",
+      "michelle_xu",
+      true
+    ],
+    [
+      "Chelsea Xuan",
+      "Senior Vice President, Assistant General Counsel",
+      [
+        "OT"
+      ],
+      [
+        "LEG"
+      ],
+      "Singapore",
+      "chelsea-xuan",
+      true
+    ],
+    [
+      "Christina Xue",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "christina-xue",
+      true
+    ],
+    [
+      "William Yang",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "william-yang",
+      true
+    ],
+    [
+      "Jacob Yanoff",
+      "Analyst",
+      [],
+      [
+        "IND"
+      ],
+      "New York",
+      "jacob-yanoff",
+      true
+    ],
+    [
+      "Luanne Yong",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "luanne-yong",
+      true
+    ],
+    [
+      "William Yu",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "william-yu",
+      true
+    ],
+    [
+      "Tag Yuxiang",
+      "Principal",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "tag-yuxiang",
+      true
+    ],
+    [
+      "Dan Zamlong",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "IND"
+      ],
+      "New York",
+      "dan-zamlong",
+      true
+    ],
+    [
+      "Michael Zeng",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "michael-zeng",
+      true
+    ],
+    [
+      "Muyun Zhai",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "muyun-zhai",
+      true
+    ],
+    [
+      "Cynthia Zhang",
+      "Director",
+      [
+        "OT"
+      ],
+      [
+        "PA"
+      ],
+      "Shanghai",
+      "cynthia-zhang",
+      true
+    ],
+    [
+      "Qiqi Zhang",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "qiqi-zhang",
+      true
+    ],
+    [
+      "Chloe Zhang",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "chloe-zhang",
+      true
+    ],
+    [
+      "Jason Zhang",
+      "Director",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "jason-zhang",
+      true
+    ],
+    [
+      "Hang Zhang",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "hang-zhang",
+      true
+    ],
+    [
+      "John Zhang",
+      "Senior Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Beijing",
+      "john-zhang",
+      true
+    ],
+    [
+      "Ken Zhang",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "New York",
+      "ken-zhang",
+      true
+    ],
+    [
+      "Jinlin Zhang",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Singapore",
+      "jinlin-zhang",
+      true
+    ],
+    [
+      "Aaron Zhang",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [],
+      "Shanghai",
+      "aaron-zhang",
+      true
+    ],
+    [
+      "Winston Zhao",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "CS"
+      ],
+      "New York",
+      "winston-zhao",
+      true
+    ],
+    [
+      "Ben Zhou",
+      "Managing Director, Co-Head of China Private Equity",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Hong Kong",
+      "ben-zhou",
+      true
+    ],
+    [
+      "Amanda Zhou",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "HC"
+      ],
+      "Shanghai",
+      "amanda-zhou",
+      true
+    ],
+    [
+      "Derek Zhou",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "TMT"
+      ],
+      "Shanghai",
+      "derek-zhou",
+      true
+    ],
+    [
+      "Bryan Zhou",
+      "Associate",
+      [
+        "IS"
+      ],
+      [
+        "ETS"
+      ],
+      "New York",
+      "bryan-zhou",
+      true
+    ],
+    [
+      "Amy Zhou",
+      "Analyst",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "amy-zhou",
+      true
+    ],
+    [
+      "Lilian Zhu",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "FS"
+      ],
+      "Shanghai",
+      "lilian-zhu",
+      true
+    ],
+    [
+      "Yihang Zhu",
+      "Vice President",
+      [
+        "IS"
+      ],
+      [
+        "RE"
+      ],
+      "Shanghai",
+      "yihang-zhu",
+      true
+    ],
+    [
+      "Dan Zilberman",
+      "Managing Director, Global Head of Capital Solutions, and Global Co-Head of Financial Services",
+      [
+        "IS"
+      ],
+      [
+        "CS",
+        "FS"
+      ],
+      "New York",
+      "dan-zilberman",
+      true
+    ],
+    [
+      "Lauren Zletz",
+      "Managing Director",
+      [
+        "IS"
+      ],
+      [
+        "TECH"
+      ],
+      "San Francisco",
+      "lauren-zletz",
+      true
+    ]
+  ],
+  "facets": {
+    "locations": [
+      "New York",
+      "London",
+      "Singapore",
+      "Shanghai",
+      "Mumbai",
+      "Berlin",
+      "San Francisco",
+      "Beijing",
+      "Hong Kong",
+      "São Paulo",
+      "Houston",
+      "Tokyo",
+      "Amsterdam",
+      "Luxembourg",
+      "Mauritius",
+      "Middle East",
+      "London, New York",
+      null
+    ],
+    "location_count": 17,
+    "records_without_location": 2,
+    "records_without_photo": 13,
+    "duplicate_display_names": [
+      {
+        "name": "Michelle Xu",
+        "slugs": [
+          "michelle-xu",
+          "michelle_xu"
+        ]
+      }
+    ],
+    "slug_anomalies": [
+      {
+        "name": "Richard Xu",
+        "slug": "richard"
+      },
+      {
+        "name": "Alison Heyden Colby",
+        "slug": "alison-heyden"
+      },
+      {
+        "name": "Ash Somani",
+        "slug": "ashutosh-somani"
+      },
+      {
+        "name": "Teck Loon Goh",
+        "slug": "teck-loon"
+      },
+      {
+        "name": "Angel Pu Shum",
+        "slug": "angel-pu"
+      }
+    ]
+  }
+}
